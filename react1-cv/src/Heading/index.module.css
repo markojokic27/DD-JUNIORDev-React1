@@ -1,0 +1,14 @@
+.heading{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  width: 100%;
+}
+.heading__line{
+  width: 100%;
+  height: 5px;
+  background-color: #646cff;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
